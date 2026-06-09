@@ -54,13 +54,6 @@ Length: 180–220 words.
 
 ---
 
- is in the funnel. Leads go cold while reps scroll through CRM notes and slack threads looking for context.
->
-> **Solution:** SalesFlow AI surfaces the next best action for every deal — automatically, in the tools your team already uses. No new dashboards. No behaviour change. Just a 34% reduction in time-to-close for the 200+ teams already using it.
->
-> **Proof:** [QUOTE or STAT]
->
-> **CTA:** Start your free 14-day trial at [link].
 
----
+
 
